@@ -5,3 +5,4 @@ List of Open Source Communities in Chitwan.
 * Indreni Open Source Club
 * Lumbini Open Source Klub
 * Mozilla Campus Club @ Indreni College
+* Chitwanix Developers Community Nepal
